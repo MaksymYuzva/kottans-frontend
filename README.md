@@ -2,8 +2,11 @@
 Honestly, it is the first time i face with this software platform, and it was really engaging and exciting to learn how to interact with it.
 <details>
 <summary>Click to expand!</summary>
+
 ![](https://github.com/MaksymYuzva/kottans-frontend/blob/main/task_git_basics/1.png)
+
 ![](https://github.com/MaksymYuzva/kottans-frontend/blob/main/task_git_basics/2.png)
+
 ![](https://github.com/MaksymYuzva/kottans-frontend/blob/main/task_git_basics/3.png)
 </details>
 ## Linux CLI, and HTTP
