@@ -1,7 +1,6 @@
 ## Git Basics
 Honestly, it is the first time i face with this software platform, and it was really engaging and exciting to learn how to interact with it.
-
-[Completed task by Maksym Yuzva]
+![Click to expand!]
 (task_git_basics/1.png)
 (task_git_basics/2.png)
 (task_git_basics/3.png)
