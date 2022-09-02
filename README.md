@@ -36,12 +36,12 @@
 
 <summary>Additional materials_Git Collaboration</summary>
 
-- [] An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.
-- [] Oh shit, git!
-- [] Flight rules for git
-- [] GitHub Skills
+ [] An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.
+ [] Oh shit, git!
+ [] Flight rules for git
+ [] GitHub Skills
 
-<details>
+</details>
 
 ## Intro to HTML and CSS
 - **HTML**. Everything was familiar for me, but I have learnt a bunch of new tags like: input, video, audio, embed, figcaption. And also  target="_blank" was a new attribute for me. I definitely will use it.
