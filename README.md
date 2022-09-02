@@ -36,10 +36,10 @@
 
 <summary>Additional materials_Git Collaboration</summary>
 
- [] An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.
- [] Oh shit, git!
- [] Flight rules for git
- [] GitHub Skills
+ - [ ] An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.
+ - [ ] Oh shit, git!
+ - [ ] Flight rules for git
+ - [ ] GitHub Skills
 
 </details>
 
