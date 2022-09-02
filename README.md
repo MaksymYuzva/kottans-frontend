@@ -32,21 +32,28 @@
 
 ![](https://github.com/MaksymYuzva/kottans-frontend/blob/main/task_git_collaboration/3.png)
 </details>
+<details>
+
+<summary>Additional materials_Git Collaboration</summary>
+
+- [] An Introduction to Git and GitHub by Brian Yu (CS50 course), video, ~40 min.
+- [] Oh shit, git!
+- [] Flight rules for git
+- [] GitHub Skills
+
+<details>
 
 ## Intro to HTML and CSS
 - **HTML**. Everything was familiar for me, but I have learnt a bunch of new tags like: input, video, audio, embed, figcaption. And also  target="_blank" was a new attribute for me. I definitely will use it.
-- **CSS**. Some of this information I know, though, I have learnt much more.
-- I have improved my knowledge about box model, margin, position, difference between display: block and display:  inline-block and the difference between display: none and visibility: hidden, z-index. Also i've discovered how to reset default of browser by applying star style, and it was astonishing to get to know a lot of values of color property. All of this information is definitely come in handy.
+
+- **CSS**. Something i knew before, but I have learnt much more. I have improved my knowledge about box model, margin, position, difference between display: block and display:  inline-block and the difference between display: none and visibility: hidden, z-index. Also i've discovered how to reset default of browser by applying star style, and it was astonishing to get to know a lot of values of color property. All of this information is definitely come in handy.
 <details>
 
 <summary>Click to expand!</summary>
 
-![](C:\Users\maksi\Desktop\ProgrammingWeb\GitGeneral\kottans-frontend\task_task_html_css_intro\1.png)
+![](https://github.com/MaksymYuzva/kottans-frontend/blob/main/task_task_html_css_intro/1.png)
 
-![](C:\Users\maksi\Desktop\ProgrammingWeb\GitGeneral\kottans-frontend\task_task_html_css_intro\2.png)
-
-![](C:\Users\maksi\Desktop\ProgrammingWeb\GitGeneral\kottans-frontend\task_task_html_css_intro\3.png)
-
+![](https://github.com/MaksymYuzva/kottans-frontend/blob/main/task_task_html_css_intro/2.png)
 
 </details>
 
@@ -56,13 +63,13 @@
 <details>
 <summary>Click to expand!</summary>
 
-![](C:\Users\maksi\Desktop\ProgrammingWeb\GitGeneral\kottans-frontend\task_responsive_web_design\1.png)
+![](https://github.com/MaksymYuzva/kottans-frontend/blob/main/task_responsive_web_design/1.png)
 
-![](C:\Users\maksi\Desktop\ProgrammingWeb\GitGeneral\kottans-frontend\task_responsive_web_design\2.png)
+![](https://github.com/MaksymYuzva/kottans-frontend/blob/main/task_responsive_web_design/2.png)
 
-![](C:\Users\maksi\Desktop\ProgrammingWeb\GitGeneral\kottans-frontend\task_responsive_web_design\3.png)
+![](https://github.com/MaksymYuzva/kottans-frontend/blob/main/task_responsive_web_design/3.png)
 
-![](C:\Users\maksi\Desktop\ProgrammingWeb\GitGeneral\kottans-frontend\task_responsive_web_design\4.png)
+![](https://github.com/MaksymYuzva/kottans-frontend/blob/main/task_responsive_web_design/4.png)
 
 
 </details>
