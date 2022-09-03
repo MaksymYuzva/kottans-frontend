@@ -1,5 +1,6 @@
 <details>
-<summary>(Git Basics and Linux)<summary>
+<summary>(Git Basics and Linux)</summary>
+
 ## Git Basics
 - It is the first time i face with this software platform, and it was really engaging and exciting to learn how to interact with it. I have learned basic Git commands like git add, git commit, git branch, git merge, etc.
 <details>
