@@ -1,5 +1,5 @@
 <details>
-<summary><h1>Git Basics and Linux</h1></summary>
+<summary><h2>Git Basics and Linux</h2></summary>
 
 ## Git Basics
 - It is the first time i face with this software platform, and it was really engaging and exciting to learn how to interact with it. I have learned basic Git commands like git add, git commit, git branch, git merge, etc.
@@ -68,7 +68,7 @@
 </details>
 
 <details>
-<summary><h1>Front-End Basics</h1></summary>
+<summary><h2>Front-End Basics</h2></summary>
 
 ## Intro to HTML and CSS
 - **HTML**. Everything was familiar for me, but I have learnt a bunch of new tags like: input, video, audio, embed, figcaption. And also  target="_blank" was a new attribute for me. I definitely will use it.
